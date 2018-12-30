@@ -34,6 +34,7 @@ export class SearchformComponent implements OnInit {
             this.getUserInformation();
         } else {
             this.githubUser.user = false;
+            //demo
         }
     }
 
